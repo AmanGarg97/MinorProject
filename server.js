@@ -14,4 +14,4 @@ const notices = require('./routes/homepage.js')
 
 app.use('/getNotice' , notices)
 
-app.listen(2678, () => console.log("Server Started at http://localhost:2679"))
+app.listen(2678, () => console.log("Server Started at http://localhost:2678"))
